@@ -1,2 +1,4 @@
-keys/
-keys_prod/
+encrypted_seed.txt
+__pycache__/
+*.pyc
+.env
